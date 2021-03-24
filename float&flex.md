@@ -93,7 +93,7 @@
 
 ## 3. Bootstrap grid system
 
-> 12 column ==> 약수가 많아서 많이 채택
+> 12 column ==> 약수가 많아서 채택
 
 ```html
 <div class="container">
